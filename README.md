@@ -21,7 +21,7 @@ The dataset consists of several medical predictor variables and one target label
 •	And for some of the features, likelihoods for each class i.e. P(xi/Outcome=0) ~ P(xi/Outcome=1) appears to be very similar. (In cases where P(xi/Outcome=0) ~ P(xi/Outcome=1) Naïve Bayes might not classify to its best)<br />
 From above observations KNN classification might perform better than Naïve Bayes Classification for this small data set.<br /> 
 
-### Results Comparision
+### Results Comparision:
 
 ![image](https://user-images.githubusercontent.com/24207916/140413488-f6acb680-cac3-4dfa-a9b1-e6849a384c56.png)
 
