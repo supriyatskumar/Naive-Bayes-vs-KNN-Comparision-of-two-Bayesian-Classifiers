@@ -27,6 +27,8 @@ From above observations KNN classification might perform better than Naïve Baye
 
 ![image](https://user-images.githubusercontent.com/24207916/140413488-f6acb680-cac3-4dfa-a9b1-e6849a384c56.png)
 
+
+### Inference:
 The results confirm the observations made above.<br />
 K nearest neighbors makes no assumptions of the dataset and give good results for datasets with small size as computational complexity won’t be a hindrance.<br />
 
