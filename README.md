@@ -17,7 +17,7 @@ The dataset consists of several medical predictor variables and one target label
 
 ### Observations:
 •	From correlation data above we can see that some of the features are slightly dependent of each other.<br />
-•	As observed in the pairplot not all univariate distribution of the features with respect to Outcome (i.e. P(X/Outcome)) is a good approximation of Gaussian distribution.
+•	As observed in the pairplot not all univariate distribution of the features with respect to Outcome (i.e. P(X/Outcome)) is a good approximation of Gaussian distribution.<br />
 •	And for some of the features, likelihoods for each class i.e. P(xi/Outcome=0) ~ P(xi/Outcome=1) appears to be very similar. (In cases where P(xi/Outcome=0) ~ P(xi/Outcome=1) Naïve Bayes might not classify to its best)<br />
 From above observations KNN classification might perform better than Naïve Bayes Classification for this small data set.<br /> 
 
